@@ -1,4 +1,4 @@
-# A Ghost of an IoC Container
+# [A Ghost of an IoC Container](https://jeremydmiller.com/2024/06/19/retiring-lamar-and-the-ghost-of-ioc-containers-past/)
 
 > **A stochastic risk assessment of a service container that has mistaken “still compiles” for “still safe to trust.”**
 
@@ -260,4 +260,4 @@ Until then, production use is an acceptance of undocumented behavior at exactly 
 - Advisory status is time-sensitive. The core project and repository-wide dependency graphs are reported separately.
 - No claim of malicious intent, active exploitation, or universal application impact is made.
 
-**Final recommendation:** do not adopt A Ghost of an IoC Container for new production systems. Existing users should prioritize keyed-service, ownership/disposal, scope-validation, and shutdown-race audits before the next deployment.
+**Final recommendation:** do not adopt [A Ghost of an IoC Container](https://jeremydmiller.com/2024/06/19/retiring-lamar-and-the-ghost-of-ioc-containers-past/) for new production systems. Existing users should prioritize keyed-service, ownership/disposal, scope-validation, and shutdown-race audits before the next deployment.
