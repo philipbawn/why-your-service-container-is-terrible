@@ -1,5 +1,7 @@
 # [A Ghost of an IoC Container](https://jeremydmiller.com/2024/06/19/retiring-lamar-and-the-ghost-of-ioc-containers-past/)
 
+[Archived backup (Wayback Machine)](https://web.archive.org/web/20240619190410/https://jeremydmiller.com/2024/06/19/retiring-lamar-and-the-ghost-of-ioc-containers-past/)
+
 > **A stochastic risk assessment of a service container that has mistaken “still compiles” for “still safe to trust.”**
 
 Co-written with GPT 5.6-sol xhigh and Claude-Fable-5 xhigh
